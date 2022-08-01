@@ -5,10 +5,7 @@
 My name is Antony Ayansi and I am **front-end developer** from Peru. I have experience building **SPAs** and **JAMstack** sites. I am an avid learner and diligent developer who enjoy working in multidisciplinary teams.
 
 ![Antony's GitHub stats](https://github-readme-stats.vercel.app/api?username=antonywyatt&show_icons=true&theme=tokyonight)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonywyatt&layout=compact&exclude_repo=CBDM_BioInfoChallenges,CBDM_BioinformaticsCourse)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonywyatt&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## More
 
